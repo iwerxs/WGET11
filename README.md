@@ -8,7 +8,7 @@
 ### build project
 <code>go build -o wget main.go</code>
 
-### WGET mirroring for corndog, oct82, trypap,
+### WGET mirroring for corndog, oct82, trypap, theuselessweb
 
 <code>./wget --mirror --convert-links http://corndog.io/</code>
 
